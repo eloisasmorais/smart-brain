@@ -9,6 +9,6 @@ How it works:
 
 The application will call the 'Face Detection' API made by Clarifai. If there's a face in the picture, the API will return the coordinates that are going to be used to draw a box around the face area.
 
-You can find the final result by clicking this link: https://appsmartbrain.herokuapp.com/.
+You can find the final result by clicking on this link: https://appsmartbrain.herokuapp.com/.
 
-Thank you for you visit! :) 
+Thank you for your visit! :) 
